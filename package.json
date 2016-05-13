@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/ravindrais53/myapp.git"
   },
+   "dependencies": {
+    "express": "~4.9.8"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
