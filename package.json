@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/ravindrais53/myapp.git"
   },
-   "dependencies": {
+  "dependencies": {
     "express": "~4.9.8"
   },
   "author": "",
